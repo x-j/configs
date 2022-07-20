@@ -54,7 +54,8 @@ SendToWindows(oWinList, Space)
 Return
 
 
-;OTO JEST HOME I END NA ARROW STRZAŁKACH (dla MSI)
+;OTO JEST HOME I END NA ARROW STRZAŁKACH (dla MSI gs63)
+; Home and End by using arrow keys + Fn (only for MSI gs63)
 
 SC12E:: ; Replace 12E with your key's value.
 Send {Home}
@@ -89,26 +90,21 @@ Send #d
 return
 
 
-;OTO JEST ANTI-RACIST SKRYPT
-
-:*:nigger::
-MsgBox, racism police says stop!.
-return
-
-
 ;oto jest Capslock as enter
 
 ^Capslock::
 Send {enter}
 return
-;------------------------End Capslock as enter
+
 
 ;ALEXA ZAGRAJ ALEXA ZAGRAJ BOUND
 :*:HDMIRROR::
 Run, E:\mooziczka d(-_-)b\HDMIRROR - ADRENALIN\HDMIRROR - BOUND (Strobe Warning).mp4
 return
 
+
 ;OTO JEST GOOGLE MAGIA
+; disable Xbox game bar in order to use this
 
 #g::    ; <-- Google Web Search Using Highlighted Text (Win+G)
    Search := 1
@@ -176,6 +172,7 @@ UriEncode(Uri)
    Return, Res
 }
 return
+
 
 ;OTO JEST Powershell pod Win+A
 #a::
