@@ -4,3 +4,4 @@ requests
 lxml
 unidecode
 bs4
+soundcloud-lib
