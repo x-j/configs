@@ -1,0 +1,6 @@
+Spout,https://spout.zeal.co/
+NDI Tools,https://ndi.tv/tools/#download-tools
+NDI Tools 3.6,https://drive.google.com/file/d/1uHomC8Kled5ruof1uZodNOcd4hPgFOPb
+Spout to NDI & SpoutControls,https://leadedge.github.io/
+obs-ndi,https://github.com/Palakis/obs-ndi
+NightPDF,https://github.com/librepgp/NightPDF

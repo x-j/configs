@@ -1,0 +1,13 @@
+numpy
+pandas
+requests
+lxml
+unidecode
+bs4
+soundcloud-lib
+ipython
+ipykernel
+jupyter-core
+jupyter-client
+Scrapy
+scrapyd
