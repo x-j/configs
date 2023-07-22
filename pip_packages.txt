@@ -1,5 +1,6 @@
 numpy
 pandas
+opencv-python
 requests
 lxml
 unidecode
@@ -9,5 +10,3 @@ ipython
 ipykernel
 jupyter-core
 jupyter-client
-Scrapy
-scrapyd
